@@ -13,6 +13,6 @@ Steps to create this project:
 1. Visit http://localhost:3000/posts
 2. Click "New post".
 3. Submit without filling title input. The error will be shown
-4. Fill title and submit. You be redirected to posts list
+4. Click on "Back to posts" link
 5. Click "New post".
 6. The error from step 3. will flash on screen and then will disappear <== BUG HERE
